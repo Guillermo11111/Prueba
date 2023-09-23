@@ -1,0 +1,70 @@
+/* Estilos generales */
+.body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #d2b992;
+}
+.foto{
+    width: 15%;
+    border-radius:180px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid #000000;
+    margin-top:5%
+}
+.texto-pre{
+    margin-left: 13%;
+    margin-right: 8%;
+    font-family:"Lucida Console"
+}
+.tecno{
+    width:500px;
+    height:300px;
+    margin-left: 33%;
+}
+.container-yo{
+    width: 500px;
+    height:400px;
+    background-color: #e0f9bb;
+    text-align: center;
+    margin-left:33%;
+    margin-top:7%;
+    border-radius: 15px;
+}
+.container-yo-centro{
+    width: 400px;
+    height:310px;
+    background-color:#d8bf91;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    text-align: start;
+}
+.contenedor {
+    text-align: center; 
+}
+.div-interno {
+    display: inline-block; /* Coloca los divs internos en línea */
+    width: 400px; /* Ancho de cada div interno */
+    height: 300px; /* Altura de cada div interno */
+    background-color: #e0f9bb; /* Color de fondo */
+    margin: 10px; /* Margen entre los divs internos */
+    border-radius:10px
+}
+.compu{
+    width: 90px; /* Ancho de cada div interno */
+    height: 70px;
+}
+.texto-ar{
+    font-weight: bold;
+}
+.textos-in{
+    display: inline-block;
+    margin: 10px; /* Margen entre los divs internos */
+    border-radius:10px;
+    font-weight: bold;
+    background-color: #d8bf91;
+}

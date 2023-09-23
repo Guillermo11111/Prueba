@@ -68,3 +68,20 @@
     font-weight: bold;
     background-color: #d8bf91;
 }
+.titulo{
+    margin-left:40%;
+}
+.titulo2{
+    margin-left:35%;
+}
+.imagen-proy{
+    display: inline-block; /* Coloca los divs internos en línea */
+    width: 400px; /* Ancho de cada div interno */
+    height: 300px; /* Altura de cada div interno */
+    margin: 10px; /* Margen entre los divs internos */
+    border-radius:10px;
+    transition: transform 0.3s;
+}
+.imagen-proy:hover {
+    transform: scale(1.2); /* Agrandar la imagen al 120% del tamaño original */
+}

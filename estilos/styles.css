@@ -71,6 +71,9 @@
 .titulo{
     margin-left:40%;
 }
+.titulo-2{
+    margin-left:43%;
+}
 .titulo2{
     margin-left:35%;
 }
@@ -84,4 +87,37 @@
 }
 .imagen-proy:hover {
     transform: scale(1.2); /* Agrandar la imagen al 120% del tamaño original */
+}
+.contenedor-2{
+    text-align: center; 
+    width:100%;
+    background-color:#e0f9bb;
+}
+.texto-centro{
+    text-align: center; 
+    width:40%;
+    background-color:#fff;
+}
+.contenedor-3{
+    text-align: center; 
+    width:60%;
+    background-color:#D5D5D5;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius:10px;
+}
+.texto-centro{
+    margin-left:auto;
+    margin-right:auto;
+    background-color:#D5D5D5;
+}
+.correo{
+    height:30px;
+    width:30px
+}
+.imagen-logo{
+    display: inline-block; /* Coloca los divs internos en línea */
+    width: 60px; /* Ancho de cada div interno */
+    height: 60px; /* Altura de cada div interno */
+    margin: 10px; /* Margen entr*/
 }
